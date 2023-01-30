@@ -1,0 +1,15 @@
+Info: Processing symbol 'BT1:Connector:JWT_A3963_1x02_P3.96mm_Vertical'.
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C2:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'D1:Diode_SMD:D_SOD-123F'.
+Info: Processing symbol 'MPU6050:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Horizontal'.
+Info: Processing symbol 'RF433Tx1:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal'.
+Info: Processing symbol 'U1:Package_TO_SOT_THT:TO-3P-3_Vertical'.
+Info: Processing symbol 'U2:pipoco:RPi_Pico_SMD_TH'.
+Changed MPU6050 footprint from 'Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical' to 'Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Horizontal'.
+Changed RF433Tx1 footprint from 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical' to 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal'.
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+
+
+Info: Total warnings: 2, errors: 0.
