@@ -636,7 +636,7 @@
     (property "Value" "1000uF" (id 1) (at 171.45 103.2509 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D8.0mm_H7.0mm_P3.50mm" (id 2) (at 168.6052 106.68 0)
+    (property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm" (id 2) (at 168.6052 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 167.64 102.87 0)
@@ -714,7 +714,7 @@
     (property "Reference" "R1" (id 0) (at 193.04 99.0599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "470/220" (id 1) (at 193.04 101.5999 0)
+    (property "Value" "470" (id 1) (at 193.04 101.5999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 188.722 100.33 90)
@@ -751,7 +751,7 @@
     (property "Value" "1000uF" (id 1) (at 135.89 101.9809 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D8.0mm_H7.0mm_P3.50mm" (id 2) (at 133.0452 105.41 0)
+    (property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm" (id 2) (at 133.0452 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 132.08 101.6 0)
@@ -804,10 +804,10 @@
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
     (path "/b0d76427-eadd-4494-a4e6-57caeb972e4a"
-      (reference "C1") (unit 1) (value "1000uF") (footprint "Capacitor_THT:C_Radial_D8.0mm_H7.0mm_P3.50mm")
+      (reference "C1") (unit 1) (value "1000uF") (footprint "Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm")
     )
     (path "/598fe0fe-299e-48e2-98bb-d0e44f8057ce"
-      (reference "C2") (unit 1) (value "1000uF") (footprint "Capacitor_THT:C_Radial_D8.0mm_H7.0mm_P3.50mm")
+      (reference "C2") (unit 1) (value "1000uF") (footprint "Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm")
     )
     (path "/13df134f-9e18-49fd-9099-406b1a7397b3"
       (reference "D1") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
@@ -831,7 +831,7 @@
       (reference "J2") (unit 1) (value "Output") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical")
     )
     (path "/aa7503f2-df38-4532-bdc5-22a8b9a95d9d"
-      (reference "R1") (unit 1) (value "470/220") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R1") (unit 1) (value "470") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/a1a1507a-b7ba-4169-b299-e0bb041a1cb6"
       (reference "U1") (unit 1) (value "L7805") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
