@@ -1050,7 +1050,7 @@
     (uuid 28cc33de-4f54-4273-986e-11739a73f30d)
     (property "Reference" "U1" (id 0) (at 111.76 59.69 0))
     (property "Value" "L7805" (id 1) (at 111.76 62.23 0))
-    (property "Footprint" "Package_TO_SOT_THT:TO-3P-3_Vertical" (id 2) (at 112.395 71.12 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" (id 2) (at 112.395 71.12 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" (id 3) (at 111.76 68.58 0)
@@ -1343,7 +1343,7 @@
       (reference "RF433Tx1") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal")
     )
     (path "/28cc33de-4f54-4273-986e-11739a73f30d"
-      (reference "U1") (unit 1) (value "L7805") (footprint "Package_TO_SOT_THT:TO-3P-3_Vertical")
+      (reference "U1") (unit 1) (value "L7805") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
     (path "/f70ae5a8-4263-4b6b-8078-9b0729386929"
       (reference "U2") (unit 1) (value "Pico") (footprint "pipoco:RPi_Pico_SMD_TH")
