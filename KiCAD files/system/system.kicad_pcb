@@ -1034,7 +1034,7 @@
     )
   )
 
-  (gr_rect (start 205.74 134.62) (end 109.22 48.26) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 9ac8a60c-a8f4-4621-9276-108ac6130cbd))
+  (gr_rect (start 203.2 132.08) (end 111.76 53.34) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 9ac8a60c-a8f4-4621-9276-108ac6130cbd))
   (gr_text "FALL DETECTION SYSTEM\nAKANKSHA GIRI(076BEI004)\nDEVRAJ PARAJULI(076BEI013)\nPRAYAG MAN MANE(076BEI027)\nSANIM KUMAR KHATRI(076BEI037)" (at 132.08 121.92) (layer "F.SilkS") (tstamp ea04ca32-08af-4895-afc0-0f8575bb04d8)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
