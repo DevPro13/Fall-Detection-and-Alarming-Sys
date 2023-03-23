@@ -790,7 +790,7 @@
     (property "Value" " " (id 1) (at 143.51 101.9809 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P2.50mm" (id 2) (at 140.6652 105.41 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" (id 2) (at 140.6652 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 139.7 101.6 0)
@@ -843,7 +843,7 @@
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
     (path "/b0d76427-eadd-4494-a4e6-57caeb972e4a"
-      (reference "C1") (unit 1) (value " ") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P2.50mm")
+      (reference "C1") (unit 1) (value " ") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/19906e76-bf3a-48d4-9765-5125c13e02c2"
       (reference "C2") (unit 1) (value " ") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
