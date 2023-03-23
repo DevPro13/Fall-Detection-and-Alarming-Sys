@@ -1125,7 +1125,7 @@
   )
 
   (gr_rect (start 68.58 109.22) (end 142.24 137.16) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 2c4e3ee1-4133-4d68-bf7c-ef75d42035dc))
-  (gr_text "Minor Project 2079\nFall detection Sys\nAkanksha Devraj Prayag Sanim" (at 109.22 132.08) (layer "F.SilkS") (tstamp 3f7df645-eb6b-4fd6-8137-95ff4b81e49d)
+  (gr_text "Minor Project 2079\nFall detection Sys\nAkanksha Devr Prayag Sanim" (at 109.22 132.08) (layer "F.SilkS") (tstamp 3f7df645-eb6b-4fd6-8137-95ff4b81e49d)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
