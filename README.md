@@ -4,7 +4,7 @@
 
 While the proverb speaks of resilience, falls can be a critical health concern, especially for the elderly. This project presents a robust fall detection system that combines wearable technology and machine learning to provide timely alerts, mitigating the risks associated with delayed assistance.
 
-This system is built upon the research detailed in the paper **"Fall Detection System for Elderly People Using LSTM"**. It leverages a custom-designed wearable device to monitor user movement and a sophisticated deep learning model to accurately distinguish between normal daily activities and dangerous falls.
+This system is built upon the research detailed in the paper [**"Fall Detection System for Elderly People Using LSTM"**](https://www.nepjol.info/index.php/joeis/article/view/93497), [Alternate Link](https://www.researchgate.net/publication/404278061_Fall_Detection_System_for_Elderly_People_Using_LSTM). *(Link to full paper — https://www.nepjol.info/index.php/joeis/article/view/93497 or https://www.researchgate.net/publication/404278061_Fall_Detection_System_for_Elderly_People_Using_LSTM)* It leverages a custom-designed wearable device to monitor user movement and a sophisticated deep learning model to accurately distinguish between normal daily activities and dangerous falls.
 
 The system is architecturally divided into two main sub-systems:
 -   **Wearable Detector:** A compact, body-worn device that captures real-time motion data.
@@ -54,7 +54,6 @@ The groundstation acts as the central alerting hub. It remains in a fixed locati
 *   **Alerting Peripherals:** A loud buzzer and bright LEDs.
 *   **Power Supply:** 5V DC power, supplied by the custom rectifier circuit below.
 
-*(PCB image to be added)*
 
 ## Power Supply Rectifier
 
@@ -68,3 +67,16 @@ This custom circuit was designed to provide a stable, regulated 5V DC supply for
 
 ### PCB Design
 ![PCB of the rectifier and regulator](/Resources/Images/Bridge_Rectifier_Regulator1.jpg)
+
+## Authors
+
+- **Sanim Kumar Khatri** - [GitHub](https://github.com/SanimKumarKhatri)
+- **Devraj Parajuli** - [GitHub](https://github.com/DevPro13)
+- **Bhupendra Chaulagain**- [Github](https://github.com/BhupendraChaulagain)
+- **Prayag Man Mane** - [Github](https://github.com/gityag)
+- **Sandesh Thapa** - [Github](https://github.com/sandeshit)\
+IOE, Pulchowk Campus
+
+## License
+
+This project is released for academic and research purposes. Hardware designs and firmware are provided as-is.
